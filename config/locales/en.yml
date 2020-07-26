@@ -252,7 +252,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: sharp web conference platform
+  greenlight: Sharpsoft Co. | Web Conferance
   header:
     all_recordings: All Recordings
     dropdown:
@@ -276,11 +276,11 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your sharp web conference platform . You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to sharp web conference platform.
-    video: Watch our tutorial on using sharp web conference platform
+    about: "You can create your own rooms to host sessions, or join others using a short and convenient link."
+    welcome: Welcome to sharp web conferencing system
+    video: Watch our tutorial on using sharp web conferencing system
     upgrade: Show me how to upgrade to 2.0!
-    version: We've released a new version of sharp web conference platform, but your database isn't compatible.
+    version: We've released a new version of sharp web conferencing system, but your database isn't compatible.
   language_default: Default (browser language)
   ldap_error: Unable to connect to the LDAP server. Please check your LDAP configuration in the env file and ensure your server is running.
   login: Sign in
@@ -292,10 +292,10 @@ en:
         signin: To access your personal rooms, click the button below and sign in.
         signin_link: Sign In
         signup:
-          info: A new user has signed up to use sharp web conference platform
-          more-info: To allow this user to access sharp web conference platform you must approve their account in organization settings.
+          info: A new user has signed up to use sharp web conferencing system
+          more-info: To allow this user to access sharp web conferencing system you must approve their account in organization settings.
           admins_link: Visit the Organization Page
-          subject: New sharp web conference platform User Sign Up
+          subject: New sharp web conferencing system User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
         subject: Account Approved
         username: Your username is %{email}.
