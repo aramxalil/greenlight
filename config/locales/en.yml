@@ -20,7 +20,7 @@ en:
   activerecord:
     attributes:
       user:
-        accepted_terms: "Terms and Conditions"
+        accepted_terms: "Terms and Conditions."
         email: Email
         name: Name
         password: Password
